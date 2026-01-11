@@ -1,7 +1,7 @@
 # Skills Demonstrated
 
-SQL Performance Optimisation
-Healthcare Reporting & Auditing
-SSRS Dataset & Parameter Design
-Data Validation & Business Logic
-Production-ready SQL structuring
+- SQL Performance Optimisation
+- Healthcare Reporting & Auditing
+- SSRS Dataset & Parameter Design
+- Data Validation & Business Logic
+- Production-ready SQL structuring
