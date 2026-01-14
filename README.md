@@ -24,7 +24,7 @@ Hospitals require accurate reporting to:
 ## Technologies Used
 - SQL Server (T-SQL)
 - SQL Server Reporting Services (SSRS)
-- Healthcare Information Systems (HIS)
+- Hospital Information Systems (HIS)
 - Relational Database Design
 
 ## Key Report Fields
